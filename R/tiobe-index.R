@@ -37,3 +37,13 @@ long_term_history <- function() {
 
 }
 
+#' Get Programming Language Hall of Fame Table
+#' @return A dataframe with Programming Language Hall of Fame Table
+#' @examples
+#' hall_of_fame()
+#' @export
+hall_of_fame <- function() {
+
+  all_tables[[4]]
+
+}
