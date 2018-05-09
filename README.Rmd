@@ -4,6 +4,8 @@ output: rmarkdown::github_document
 
 # tiobieindexr
 
+[![Build Status](https://travis-ci.org/amrrs/tiobieindexr.svg?branch=master)](https://travis-ci.org/amrrs/tiobieindexr) 
+
 ## Description
 
 Get latest TIOBE Index Tables. The TIOBE Programming Community index is an indicator of the popularity of programming languages from <https://www.tiobe.com/tiobe-index/>
