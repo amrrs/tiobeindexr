@@ -13,6 +13,7 @@ Overview
 The following functions are implemented:
 
 -   `top_20()`
+-   `top_50()`
 
 Installation
 ------------
@@ -60,3 +61,17 @@ top_20()
     ## 18       18       10                 Perl  0.909% -1.69%
     ## 19       19       13                Swift  0.907% -1.37%
     ## 20       20       31                Scala  0.900% +0.18%
+
+### Extract Top 50 Languages
+
+``` r
+tail(top_50())
+```
+
+    ##    Position Programming Language Ratings
+    ## 45       45                   ML  0.377%
+    ## 46       46                Julia  0.342%
+    ## 47       47         ActionScript  0.321%
+    ## 48       48              Haskell  0.320%
+    ## 49       49               Kotlin  0.292%
+    ## 50       50                  RPG  0.281%

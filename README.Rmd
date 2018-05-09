@@ -13,6 +13,7 @@ Get latest TIOBE Index Tables. The TIOBE Programming Community index is an indic
 The following functions are implemented:
 
 * `top_20()`
+* `top_50()`
 
 ## Installation
 
@@ -40,3 +41,8 @@ packageVersion("tiobieindexr")
 top_20()
 ```
 
+### Extract Top 50 Languages
+
+```{r}
+tail(top_50())
+```
