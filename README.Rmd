@@ -15,6 +15,7 @@ This R package includes the following functions:
 * `top_20()`
 * `top_50()`
 * `long_term_history()`
+* `hall_of_fame()`
 
 ## Installation
 
@@ -52,6 +53,12 @@ tail(top_50())
 
 ```{r}
 long_term_history()
+```
+
+### Get Hall of Fame Table
+
+```{r}
+hall_of_fame()
 ```
 
 

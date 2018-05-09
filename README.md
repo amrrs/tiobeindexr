@@ -15,6 +15,7 @@ This R package includes the following functions:
 -   `top_20()`
 -   `top_50()`
 -   `long_term_history()`
+-   `hall_of_fame()`
 
 Installation
 ------------
@@ -99,6 +100,29 @@ long_term_history()
     ## 13                  Ada   28   16   17   14    5    6    2
     ## 14                 Lisp   31   11   15   13    8    4    3
     ## 15               Pascal  145   14   18   96    9    3   13
+
+### Get Hall of Fame Table
+
+``` r
+hall_of_fame()
+```
+
+    ##    Year       Winner
+    ## 1  2017            C
+    ## 2  2016           Go
+    ## 3  2015         Java
+    ## 4  2014   JavaScript
+    ## 5  2013 Transact-SQL
+    ## 6  2012  Objective-C
+    ## 7  2011  Objective-C
+    ## 8  2010       Python
+    ## 9  2009           Go
+    ## 10 2008            C
+    ## 11 2007       Python
+    ## 12 2006         Ruby
+    ## 13 2005         Java
+    ## 14 2004          PHP
+    ## 15 2003          C++
 
 Courtesy
 --------
