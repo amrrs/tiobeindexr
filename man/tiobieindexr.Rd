@@ -10,6 +10,16 @@ Get latest TIOBE Index Tables. The TIOBE Programming Community index
 is an indicator of the popularity of programming languages
 from \url{https://www.tiobe.com/tiobe-index/}
 }
+\section{See Also}{
+
+Useful links:
+\itemize{
+\item \url{https://www.tiobe.com/tiobe-index/}
+\item \url{https://github.com/amrrs/tiobeindexr}
+\item Report bugs at \href{https://github.com/amrrs/tiobieindexr/issues}{https://github.com/amrrs/tiobeindexr/issues}
+}
+}
+
 \author{
 AbdulMajedRaja RS(amrrs.data@gmail.com)
 }

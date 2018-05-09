@@ -1,4 +1,4 @@
-Package: tiobieindexr
+Package: tiobeindexr
 Type: Package
 Title: Extract 'TIOBE' Programming Index Tables for the latest month
 Version: 0.1.0
