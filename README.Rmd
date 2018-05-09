@@ -22,7 +22,7 @@ This R package includes the following functions:
 ## Installation
 
 ```{r eval=FALSE}
-devtools::install_github("amrrs/tiobieindexr")
+devtools::install_github("amrrs/tiobeindexr")
 ```
 
 ```{r message=FALSE, warning=FALSE, error=FALSE, include=FALSE}
@@ -32,10 +32,10 @@ options(width=120)
 ## Usage
 
 ```{r message=FALSE, warning=FALSE, error=FALSE}
-library(tiobieindexr)
+library(tiobeindexr)
 
 # current verison
-packageVersion("tiobieindexr")
+packageVersion("tiobeindexr")
 
 ```
 

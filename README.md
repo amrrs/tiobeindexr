@@ -23,17 +23,17 @@ Installation
 ------------
 
 ``` r
-devtools::install_github("amrrs/tiobieindexr")
+devtools::install_github("amrrs/tiobeindexr")
 ```
 
 Usage
 -----
 
 ``` r
-library(tiobieindexr)
+library(tiobeindexr)
 
 # current verison
-packageVersion("tiobieindexr")
+packageVersion("tiobeindexr")
 ```
 
     ## [1] '0.1.0'
