@@ -77,7 +77,7 @@ tail(top_50())
     ## 49       49               Kotlin  0.292%
     ## 50       50                  RPG  0.281%
 
-### Long Term History
+### Get Long Term History Programming Index Table
 
 ``` r
 long_term_history()

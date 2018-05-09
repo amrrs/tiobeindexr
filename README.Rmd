@@ -48,7 +48,7 @@ top_20()
 tail(top_50())
 ```
 
-### Long Term History
+### Get Long Term History Programming Index Table
 
 ```{r}
 long_term_history()
