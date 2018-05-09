@@ -8,6 +8,8 @@ top_20()
 }
 \value{
 A dataframe with Top 20 Programming languages by their TIOBE Index
+        along with a comparison between Last month's and
+        this month's ranking and Change in the Ratings
 }
 \description{
 Get Top 20 values of TIOBIE Index table for the latest month
