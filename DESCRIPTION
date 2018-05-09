@@ -1,0 +1,24 @@
+Package: tiobieindexr
+Type: Package
+Title: Extract 'TIOBE' Index Tables for the latest month
+Version: 0.1.0
+Date: 2018-05-10
+Authors@R: c(
+    person("AbdulMajedRaja", "RS", email = "amrrs.data@gmail.com", role = c("aut", "cre"))
+  )
+Maintainer: AbdulMajedRaja RS <amrrs.data@gmail.com>
+Description: Get latest TIOBE Index Tables. The TIOBE Programming Community index
+             is an indicator of the popularity of programming languages
+             from <https://www.tiobe.com/tiobe-index/>
+URL: https://github.com/amrrs/tiobieindexr
+BugReports: https://github.com/amrrs/tiobieindexr/issues
+Encoding: UTF-8
+License: AGPL
+Suggests:
+    testthat
+Depends:
+    R (>= 3.2.0)
+Imports:
+    rvest,
+    xml2
+RoxygenNote: 6.0.1
