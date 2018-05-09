@@ -35,13 +35,13 @@ packageVersion("tiobieindexr")
 
 ```
 
-### Extract Top 20 Languages
+### Extract Top 20 Programming Languages
 
 ```{r}
 top_20()
 ```
 
-### Extract Top 50 Languages
+### Extract Top 50 Programming Languages
 
 ```{r}
 tail(top_50())

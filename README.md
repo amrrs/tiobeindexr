@@ -34,7 +34,7 @@ packageVersion("tiobieindexr")
 
     ## [1] '0.1.0'
 
-### Extract Top 20 Languages
+### Extract Top 20 Programming Languages
 
 ``` r
 top_20()
@@ -62,7 +62,7 @@ top_20()
     ## 19       19       13                Swift  0.907% -1.37%
     ## 20       20       31                Scala  0.900% +0.18%
 
-### Extract Top 50 Languages
+### Extract Top 50 Programming Languages
 
 ``` r
 tail(top_50())
