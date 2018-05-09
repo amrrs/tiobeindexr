@@ -1,6 +1,6 @@
 Package: tiobeindexr
 Type: Package
-Title: Extract 'TIOBE' Programming Index Tables for the latest month
+Title: Extract 'TIOBE' Programming Index Tables for the Latest Month
 Version: 0.1.0
 Date: 2018-05-10
 Authors@R: c(
