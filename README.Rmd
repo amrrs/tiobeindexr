@@ -10,10 +10,11 @@ Get latest TIOBE Index Tables. The TIOBE Programming Community index is an indic
 
 ## Overview
 
-The following functions are implemented:
+This R package includes the following functions:
 
 * `top_20()`
 * `top_50()`
+* `long_term_history()`
 
 ## Installation
 
@@ -45,4 +46,10 @@ top_20()
 
 ```{r}
 tail(top_50())
+```
+
+### Long Term History
+
+```{r}
+long_term_history()
 ```

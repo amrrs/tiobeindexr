@@ -10,10 +10,11 @@ Get latest TIOBE Index Tables. The TIOBE Programming Community index is an indic
 Overview
 --------
 
-The following functions are implemented:
+This R package includes the following functions:
 
 -   `top_20()`
 -   `top_50()`
+-   `long_term_history()`
 
 Installation
 ------------
@@ -75,3 +76,26 @@ tail(top_50())
     ## 48       48              Haskell  0.320%
     ## 49       49               Kotlin  0.292%
     ## 50       50                  RPG  0.281%
+
+### Long Term History
+
+``` r
+long_term_history()
+```
+
+    ##    Programming Language 2018 2013 2008 2003 1998 1993 1988
+    ## 1                  Java    1    2    1    1   15    -    -
+    ## 2                     C    2    1    2    2    1    1    1
+    ## 3                   C++    3    4    3    3    2    2    5
+    ## 4                Python    4    7    6   12   23   18    -
+    ## 5                    C#    5    5    7    8    -    -    -
+    ## 6     Visual Basic .NET    6   13    -    -    -    -    -
+    ## 7            JavaScript    7   10    8    7   19    -    -
+    ## 8                   PHP    8    6    4    5    -    -    -
+    ## 9                  Ruby    9    9    9   18    -    -    -
+    ## 10 Delphi/Object Pascal   10   12   10    9    -    -    -
+    ## 11                 Perl   11    8    5    4    3   12    -
+    ## 12          Objective-C   18    3   43   50    -    -    -
+    ## 13                  Ada   28   16   17   14    5    6    2
+    ## 14                 Lisp   31   11   15   13    8    4    3
+    ## 15               Pascal  145   14   18   96    9    3   13
