@@ -1,2 +1,2 @@
 library(testthat)
-test_check("tiobieindexr")
+test_check("tiobeindexr")
