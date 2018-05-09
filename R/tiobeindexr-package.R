@@ -10,7 +10,7 @@
 #' * Report bugs at [https://github.com/amrrs/tiobeindexr/issues](https://github.com/amrrs/tiobieindexr/issues)
 #'
 #' @md
-#' @name tiobieindexr
+#' @name tiobeindexr
 #' @docType package
 #' @author AbdulMajedRaja RS(amrrs.data@gmail.com)
 NULL
