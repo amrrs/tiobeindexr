@@ -6,9 +6,13 @@ output: rmarkdown::github_document
 
 ## Description
 
+Get latest TIOBE Index Tables. The TIOBE Programming Community index is an indicator of the popularity of programming languages from <https://www.tiobe.com/tiobe-index/>
+
 ## Overview
 
 The following functions are implemented:
+
+* `top_20()`
 
 ## Installation
 
@@ -28,5 +32,11 @@ library(tiobieindexr)
 # current verison
 packageVersion("tiobieindexr")
 
+```
+
+### Extract Top 20 Languages
+
+```{r}
+top_20()
 ```
 
