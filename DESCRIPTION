@@ -11,8 +11,8 @@ Description: Get latest TIOBE Programming Index Tables.
             The TIOBE Programming Community index is an indicator 
             of the popularity of programming languages from 
             <https://www.tiobe.com/tiobe-index/>.
-URL: https://github.com/amrrs/tiobieindexr
-BugReports: https://github.com/amrrs/tiobieindexr/issues
+URL: https://github.com/amrrs/tiobeindexr
+BugReports: https://github.com/amrrs/tiobeindexr/issues
 Encoding: UTF-8
 License: AGPL
 Suggests:

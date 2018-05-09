@@ -1,8 +1,8 @@
 
-tiobieindexr
-============
+tiobeindexr
+===========
 
-[![Build Status](https://travis-ci.org/amrrs/tiobieindexr.svg?branch=master)](https://travis-ci.org/amrrs/tiobieindexr)
+[![Build Status](https://travis-ci.org/amrrs/tiobeindexr.svg?branch=master)](https://travis-ci.org/amrrs/tiobeindexr)
 
 Description
 -----------
