@@ -26,3 +26,14 @@ top_50 <- function() {
 
 }
 
+#' Get Long Term History table of popular programming languages
+#' @return A dataframe with Popular Programming Languages over a long Term History
+#' @examples
+#' long_term_history()
+#' @export
+long_term_history <- function() {
+
+  all_tables[[3]]
+
+}
+
