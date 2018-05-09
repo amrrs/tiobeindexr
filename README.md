@@ -99,3 +99,8 @@ long_term_history()
     ## 13                  Ada   28   16   17   14    5    6    2
     ## 14                 Lisp   31   11   15   13    8    4    3
     ## 15               Pascal  145   14   18   96    9    3   13
+
+Courtesy
+--------
+
+The data available in the package is programmatically extracted from [TIOBE Index](https://www.tiobe.com/tiobe-index/)

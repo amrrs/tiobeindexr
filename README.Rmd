@@ -53,3 +53,9 @@ tail(top_50())
 ```{r}
 long_term_history()
 ```
+
+
+## Courtesy
+
+The data available in the package is programmatically extracted from 
+[TIOBE Index](https://www.tiobe.com/tiobe-index/)
