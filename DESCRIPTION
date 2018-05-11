@@ -7,8 +7,8 @@ Authors@R: c(
     person("AbdulMajedRaja", "RS", email = "amrrs.data@gmail.com", role = c("aut", "cre"))
   )
 Maintainer: AbdulMajedRaja RS <amrrs.data@gmail.com>
-Description: Get latest TIOBE Programming Index Tables. 
-            The TIOBE Programming Community index is an indicator 
+Description: Get latest 'TIOBE' Programming Index Tables. 
+            The 'TIOBE' Programming Community index is an indicator 
             of the popularity of programming languages from 
             <https://www.tiobe.com/tiobe-index/>.
 URL: https://github.com/amrrs/tiobeindexr
