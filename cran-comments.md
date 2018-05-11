@@ -7,7 +7,7 @@
 
 0 errors | 0 warnings | 0 note
 
-* This is a resubmission with title case.
+* This is a resubmission with quotes in description.
 
 ## Reverse dependencies
 
