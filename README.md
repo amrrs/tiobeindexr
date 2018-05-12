@@ -22,6 +22,12 @@ This R package includes the following functions:
 Installation
 ------------
 
+
+``` r
+install.packages("tiobeindexr")
+```
+
+
 ``` r
 devtools::install_github("amrrs/tiobeindexr")
 ```
