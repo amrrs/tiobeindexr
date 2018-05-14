@@ -22,11 +22,13 @@ This R package includes the following functions:
 Installation
 ------------
 
+The stable version of `tiobeindexr` can be installed from CRAN:
 
 ``` r
 install.packages("tiobeindexr")
 ```
 
+And the development version can be installed from github:
 
 ``` r
 devtools::install_github("amrrs/tiobeindexr")
