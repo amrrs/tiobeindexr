@@ -7,7 +7,11 @@
 
 0 errors | 0 warnings | 0 note
 
-* This is a resubmission changing the way how tables are downloaded from the internet. This is to fight stale tables being added during binary build.
+* This is a resubmission replacing `.onLoad` with `onAttach` to resolve check NOTE
+
+Change log:
+
+changing the way how tables are downloaded from the internet. This is to fight stale tables being added during binary build.
 
 ## Reverse dependencies
 
