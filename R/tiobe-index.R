@@ -7,7 +7,7 @@
 #' @export
 top_20 <- function(){
 
-  all_tables[[1]][,c(1,2,4,5,6)]
+  .pkgenv$.get_tiboe_tables[[1]][,c(1,2,4,5,6)]
 
 }
 
@@ -20,9 +20,9 @@ top_50 <- function() {
 
   top_20_min <- top_20()[,c(1,3,4)]
 
-  names(top_20_min) <- names(all_tables[[2]])
+  names(top_20_min) <- names(.pkgenv$.get_tiboe_tables[[2]])
 
-  rbind(top_20_min, all_tables[[2]])
+  rbind(top_20_min, .pkgenv$.get_tiboe_tables[[2]])
 
 }
 
@@ -33,7 +33,7 @@ top_50 <- function() {
 #' @export
 long_term_history <- function() {
 
-  all_tables[[3]]
+  .pkgenv$.get_tiboe_tables[[3]]
 
 }
 
@@ -44,6 +44,6 @@ long_term_history <- function() {
 #' @export
 hall_of_fame <- function() {
 
-  all_tables[[4]]
+  .pkgenv$.get_tiboe_tables[[4]]
 
 }
