@@ -7,7 +7,7 @@
 
 0 errors | 0 warnings | 0 note
 
-* This is a resubmission with quotes in description.
+* This is a resubmission changing the way how tables are downloaded from the internet. This is to fight stale tables being added during binary build.
 
 ## Reverse dependencies
 

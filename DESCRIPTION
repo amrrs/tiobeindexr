@@ -1,8 +1,8 @@
 Package: tiobeindexr
 Type: Package
 Title: Extract 'TIOBE' Programming Index Tables for the Latest Month
-Version: 0.1.0
-Date: 2018-05-10
+Version: 0.1.1
+Date: 2018-08-03
 Authors@R: c(
     person("AbdulMajedRaja", "RS", email = "amrrs.data@gmail.com", role = c("aut", "cre"))
   )
